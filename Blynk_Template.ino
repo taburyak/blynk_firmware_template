@@ -1,5 +1,5 @@
 /*
- Name:		Blynk_Table_Menu.ino
+ Name:		Blynk_Template.ino
  Created:	9/19/2019 9:04:46 AM
  Author:	Andriy Honcharenko
 */
